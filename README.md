@@ -98,9 +98,6 @@ Ensure you have the following dependencies in build.gradle:
     kapt(libs.dagger.compiler)
 
 
-3️⃣ Enable Hilt in Application Class
-
-
 📂 Project Structure
 ![Screenshot 2025-03-28 232452](https://github.com/user-attachments/assets/7d6e7a19-0716-485f-ae27-53139a0d767c)
 
